@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Currently working on making E-commerce websites with NextJS<br>🌱 Currently learning MongoDB<br>😄 Pronouns : He/Him<br>⚡ Fun fact: I like Chess
+#  About Me:
+🔭 Currently working on making E-commerce websites with NextJS<br> Currently learning MongoDB<br> Pronouns : He/Him<br> Fun fact: I like Chess
 
 
 ## 🌐 Socials:
